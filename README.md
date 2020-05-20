@@ -1,1 +1,1 @@
-This was the first script I wrote in Python outside of an academic setting. The script was made to automate my NBA Fan Voting. I am a big Charlotte Hornets fan and I wanted to vote for Devonte' Graham. 
+This was the first script I wrote in Python outside of an academic setting. The script was made to automate my NBA Fan Voting. I am a big Charlotte Hornets fan and I wanted to vote for Devonte' Graham everyday. 
